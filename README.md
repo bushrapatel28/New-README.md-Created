@@ -3,6 +3,8 @@
 
 This repository contains all of the notes taken by [Bushra](https://github.com/bushrapatel28) for the [Lighthouse Labsl](https://www.lighthouselabs.ca/en) Web Development Bootcamp.
 
-### Checking out the Preview
+### Table of Contents
 
-This is a statement that I write to check live-updates in the VSCode Preview window.
+- [Week 1](/Week_1)
+  - [Day 1](/Day_1)
+
